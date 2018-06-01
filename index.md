@@ -15,7 +15,7 @@ title: "Home"
 </div><!-- /.page-lead -->
 
 <div id="page-wrapper">
-      <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
+<!--       [if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif] -->
 
 
 <div id="main" role="main">
