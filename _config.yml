@@ -3,9 +3,12 @@ remote_theme: mmistakes/skinny-bones-jekyll
 # Site wide configuration
 title: "Northern Widget LLC"
 description: "Open source for the outdoors"
-logo: NWseal_120px.png
-teaser: # 400x250 px default teaser image used in image archive grid
+logo: /images/NWseal_120px.png
+teaser: bobby_sqaure.jpg # 400x250 px default teaser image used in image archive grid
 locale: en
 url: https://northernwidget.github.io
 feed:
   path: atom.xml
+categories:
+  - products
+  - software

@@ -1,6 +1,17 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Products
+  url: /products/
+  excerpt: "Insturmentation and sensors which have made it into production"
+
+- title: Software
+  url: /software/
+  excerpt: "Software which has been developed for both Northern Widget products and more general systems"
+
+- title: About
+  url: /about/
+  excerpt: "Where we have been, and where we hope to go"
+  #Add image here! 
+
+# - title: Northern Widget
+#   url: http://NorthernWidget.comn

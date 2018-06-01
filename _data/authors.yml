@@ -1,0 +1,16 @@
+#Details about the potential authors 
+
+bobby:
+  name: Bobby Schulz 
+  email: schu3119@umn.edu #Change this!
+  web: https://github.com/bschulz1701
+  bio: Chief Engineer and Lab Manager
+  # avatar: https://yt3.ggpht.com/a-/AJLlDp3WYKtxJZax-VIHfHOblYe9uGsp6tq19ULCow=s900-mo-c-c0xffffffff-rj-k-no
+  avatar: bobby_square.jpg
+
+andy:
+  name: Andy Wickert
+  email: andy@northernwidget.com
+  web: https://www.esci.umn.edu/people/Andrew-Wickert #Change this??
+  bio: Head of Northern Widget
+  avatar: andy_square.jpg
