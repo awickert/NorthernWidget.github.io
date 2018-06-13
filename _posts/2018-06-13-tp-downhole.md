@@ -18,6 +18,8 @@ This sensor was designed for measuring water depth in measurement wells, but cou
 * Input voltage: 3.3v ~ 5v
 * 3.3v logic 
 * Reverse polarity protected power input
-* 0.024 mBar pressure resolution
+* 0 ~ 2 Bar pressure range (0 ~ 5 Bar model optional)
+* 0.024 mBar (2.4mm H<sub>2</sub>O) pressure resolution
 * 18 bit temperature resolution (embedded thermistor)
 * Variable cable length, from 3m to 10m 
+
