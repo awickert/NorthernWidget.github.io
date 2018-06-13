@@ -1,12 +1,29 @@
 # Site navigation links
 
+# products:
 - title: Products
   url: /products/
-  excerpt: "Insturmentation and sensors which have made it into production"
+  excerpt: "Open soruce products which have been developed to aid in enviormental monitoring"
+    # children:
+    #   - title: "Loggers"
+    #     url: /products/loggers
+    #   - title: "sensors"
+    #     url: /products/sensors
+    #   - title: "Accesories"
+    #     url: /products/accesories
+
 
 - title: Software
   url: /software/
   excerpt: "Software which has been developed for both Northern Widget products and more general systems"
+
+- title: Loggers
+  url: /products/loggers/
+  excerpt: "Open source logging hardware"
+
+- title: Sensors
+  url: /products/sensors/
+  excerpt: "Open source sensing hardware"
 
 - title: About
   url: /about/
