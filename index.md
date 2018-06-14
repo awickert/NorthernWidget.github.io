@@ -2,8 +2,6 @@
 layout: default
 permalink: /
 title: "Home"
-<!-- image: -->
-  <!-- feature: MSP_Lakes.jpg -->
 ---
 <!-- <div class="page-lead" style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lake_of_the_Isles_Skyline_%2815622093049%29.jpg/1200px-Lake_of_the_Isles_Skyline_%2815622093049%29.jpg)">
   <div class="wrap page-lead-content">
