@@ -2,10 +2,18 @@
 layout: default
 permalink: /
 title: "Home"
-<!-- image:
-  feature: MSP_Lakes.jpg -->
+<!-- image: -->
+  <!-- feature: MSP_Lakes.jpg -->
 ---
-<div class="page-lead" style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lake_of_the_Isles_Skyline_%2815622093049%29.jpg/1200px-Lake_of_the_Isles_Skyline_%2815622093049%29.jpg)">
+<!-- <div class="page-lead" style="background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Lake_of_the_Isles_Skyline_%2815622093049%29.jpg/1200px-Lake_of_the_Isles_Skyline_%2815622093049%29.jpg)">
+  <div class="wrap page-lead-content">
+        <h1>Northern Widget</h1>
+        <h2>Open source for the outdoors</h2>
+        <h5>Made in Minnesota <br> Developing insturmentation and sensors for enviromental monitoring since 2013</h5>
+  </div>
+</div> -->
+
+<div class="page-lead" style="background-image:url('../images/LakeCalhoon_Cropped1.jpg')">
   <div class="wrap page-lead-content">
         <h1>Northern Widget</h1>
         <h2>Open source for the outdoors</h2>

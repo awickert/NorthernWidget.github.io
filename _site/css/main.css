@@ -2226,3 +2226,5 @@ pre.highlight { padding: 1em; }
 #site-footer:after { content: ""; display: table; clear: both; }
 #site-footer .copyright { font-size: 12px; font-size: 0.75rem; line-height: 2; margin-bottom: 24px; margin-bottom: 1.5rem; color: #999999; }
 #site-footer .copyright a { color: #999999; text-decoration: none; }
+
+hr { display: block; position: relative; padding: 0; margin: 8px auto; height: 0; width: 100%; max-height: 0; font-size: 1px; line-height: 0; clear: both; border: none; border-top: 1px solid #aaaaaa; border-bottom: 1px solid #ffffff; }

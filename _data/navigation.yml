@@ -12,18 +12,21 @@
     #   - title: "Accesories"
     #     url: /products/accesories
 
+- title: Consulting
+  url: /consulting/
+  excerpt: "Consulting services offered by the various engineering and enviromental experts at Northern Widget"
 
-- title: Software
-  url: /software/
-  excerpt: "Software which has been developed for both Northern Widget products and more general systems"
+# - title: Software
+#   url: /software/
+#   excerpt: "Software which has been developed for both Northern Widget products and more general systems"
 
-- title: Loggers
-  url: /products/loggers/
-  excerpt: "Open source logging hardware"
+# - title: Loggers
+#   url: /products/loggers/
+#   excerpt: "Open source logging hardware"
 
-- title: Sensors
-  url: /products/sensors/
-  excerpt: "Open source sensing hardware"
+# - title: Sensors
+#   url: /products/sensors/
+#   excerpt: "Open source sensing hardware"
 
 - title: About
   url: /about/
