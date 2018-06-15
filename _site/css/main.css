@@ -1566,6 +1566,11 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
 .btn:hover, form button:hover, input[type="submit"]:hover, .btn-inverse:hover, .btn-social:hover, .btn-info:hover, .btn-warning:hover, .btn-success:hover, .btn-danger:hover { color: #fff; background-color: #1a1a1a; }
 .btn:active, form button:active, input[type="submit"]:active, .btn-inverse:active, .btn-social:active, .btn-info:active, .btn-warning:active, .btn-success:active, .btn-danger:active { -webkit-transform: translateY(1px); -moz-transform: translateY(1px); -ms-transform: translateY(1px); -o-transform: translateY(1px); transform: translateY(1px); }
 
+/* Large button .btn ========================================================================== */
+.btn-large { display: inline-block; padding: 8px 20px; font-size: 28px; font-size: 1.75rem; line-height: 1.7142857143; margin-bottom: 24px; margin-bottom: 1.5rem; font-family: "Helvetica Neue", "Segoe UI", Arial, sans-serif; background-color: #000; color: #fff; text-decoration: none; border: 0 !important; border-radius: 30px; -webkit-transition: background 0.2s, border 0.2s; -moz-transition: background 0.2s, border 0.2s; transition: background 0.2s, border 0.2s; }
+.btn-large:hover { color: #fff; background-color: #1a1a1a; }
+.btn-large:active { -webkit-transform: translateY(1px); -moz-transform: translateY(1px); -ms-transform: translateY(1px); -o-transform: translateY(1px); transform: translateY(1px); }
+
 /* Inverse button .btn-inverse ========================================================================== */
 .btn-inverse, .btn-social { background-color: #fff; color: #313130; }
 .btn-inverse:visited, .btn-social:visited, .btn-inverse:active, .btn-social:active { color: #313130; }

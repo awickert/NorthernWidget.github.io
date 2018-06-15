@@ -15,7 +15,7 @@ title: "Home"
   <div class="wrap page-lead-content">
         <h1>Northern Widget</h1>
         <h2>Open source for the outdoors</h2>
-        <h5>Made in Minnesota <br> Developing insturmentation and sensors for enviromental monitoring since 2013</h5>
+        <h5>Made in Minnesota <br> Developing instrumentation and sensors for environmental monitoring since 2013</h5>
 <!--         <a href="https://mmistakes.github.io/skinny-bones-jekyll/getting-started/" class="btn-inverse">Start Using Skinny Bones</a> &nbsp; or &nbsp; <a href="https://github.com/mmistakes/skinny-bones-jekyll" class="btn-inverse">View on GitHub</a> -->
       </div><!-- /.page-lead-content -->
 </div><!-- /.page-lead -->

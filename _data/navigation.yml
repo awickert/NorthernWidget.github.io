@@ -3,7 +3,7 @@
 # products:
 - title: Products
   url: /products/
-  excerpt: "Open soruce products which have been developed to aid in enviormental monitoring"
+  excerpt: "Open source products which have been developed to aid in environmental monitoring"
     # children:
     #   - title: "Loggers"
     #     url: /products/loggers
@@ -14,8 +14,7 @@
 
 - title: Consulting
   url: /consulting/
-  excerpt: "Consulting services offered by the various engineering and enviromental experts at Northern Widget"
-
+  excerpt: "Consulting services offered by the various engineering and environmental experts at Northern Widget"
 # - title: Software
 #   url: /software/
 #   excerpt: "Software which has been developed for both Northern Widget products and more general systems"
@@ -28,6 +27,10 @@
 #   url: /products/sensors/
 #   excerpt: "Open source sensing hardware"
 
+- title: Skunkworks
+  url: /skunkworks/
+  excerpt: "Research and Development for Northern Widget is carried out in the Skunkworks, where all cool things start!"
+  
 - title: About
   url: /about/
   excerpt: "Where we have been, and where we hope to go"

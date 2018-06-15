@@ -9,7 +9,7 @@ image:
  teaser: Margay_Eagle_Square.png
 ---
 
-<b>Project Margay</b> is part of the Northern Widget Reserch and Development branch, also known as the [<b>Skunkworks</b>](https://northernwidget-skunkworks.github.io/)[^1].
+<b>Project Margay</b> is part of the Northern Widget Research and Development branch, also known as the [<b>Skunkworks</b>](https://northernwidget-skunkworks.github.io/)[^1].
 
 ![Margay Board](/images/Margay_v0-0.jpg "Margay Board")
 

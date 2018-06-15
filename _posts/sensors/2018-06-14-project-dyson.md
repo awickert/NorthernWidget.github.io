@@ -9,7 +9,7 @@ image:
  teaser: Dyson_ShortWave_Eagle_Square.png
 ---
 
-[<b>Project Dyson</b>](https://northernwidget-skunkworks.github.io/Projects/Dyson.html) is part of the Northern Widget Reserch and Development branch, also known as the [<b>Skunkworks</b>](https://northernwidget-skunkworks.github.io/)[^1].
+[<b>Project Dyson</b>](https://northernwidget-skunkworks.github.io/Projects/Dyson.html) is part of the Northern Widget Research and Development branch, also known as the [<b>Skunkworks</b>](https://northernwidget-skunkworks.github.io/)[^1].
 
 ![Dyson Shortwave Board](/images/Dyson_ShortWave_Eagle.png "Dyson Board")
 
