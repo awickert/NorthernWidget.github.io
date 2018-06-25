@@ -7,7 +7,7 @@ title: "Home"
   <div class="wrap page-lead-content">
         <h1>Northern Widget</h1>
         <h2>Open source for the outdoors</h2>
-        <h5>Made in Minnesota <br> Developing insturmentation and sensors for enviromental monitoring since 2013</h5>
+        <h5>Made in Minnesota <br> Developing insturmentation and sensors for enviromental monitoring since 2012</h5>
   </div>
 </div> -->
 
