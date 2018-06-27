@@ -1,6 +1,6 @@
 ---
 layout: article
-title: TP-Downhole
+title: TP-DownHole
 categories: sensors
 author: bobby
 excerpt: Low cost water depth monitoring
