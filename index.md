@@ -4,8 +4,8 @@ permalink: /
 title: "Home"
 ---
 
-<div class="page-lead" style="background-image:url('../images/bannerAW.png')">
-  <div class="wrap page-lead-overlay">
+<div class="page-lead" style="background-image:url('../images/bannerAW.jpg')">
+  <div class="wrap page-lead-content">
         <img src="../images/NWseal_500px.png" alt="Northern Widget seal" style="width:300px" align="left">
   </div>
 </div>
