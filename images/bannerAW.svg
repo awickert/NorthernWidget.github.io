@@ -10,13 +10,16 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="724.25275mm"
+   height="559.48059mm"
+   viewBox="0 0 724.25275 559.48059"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="bannerAW.svg">
+   sodipodi:docname="bannerAW.svg"
+   inkscape:export-filename="/home/awickert/Dropbox/NorthernWidget/NorthernWidget.github.io/images/bannerAW.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs2">
     <linearGradient
@@ -54,9 +57,9 @@
        inkscape:stockid="TriangleInL">
       <path
          inkscape:connector-curvature="0"
-         transform="scale(-0.8,-0.8)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(-0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
          id="path4035" />
     </marker>
     <marker
@@ -68,9 +71,9 @@
        inkscape:stockid="TriangleInM">
       <path
          inkscape:connector-curvature="0"
-         transform="scale(-0.4,-0.4)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(-0.4)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
          id="path4038" />
     </marker>
     <marker
@@ -82,7 +85,7 @@
        inkscape:stockid="Arrow2Mend">
       <path
          inkscape:connector-curvature="0"
-         transform="scale(-0.6,-0.6)"
+         transform="scale(-0.6)"
          d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
          style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
          id="path3929" />
@@ -97,8 +100,8 @@
       <path
          inkscape:connector-curvature="0"
          transform="matrix(0.8,0,0,0.8,10,0)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
          id="path3902" />
     </marker>
     <marker
@@ -109,7 +112,7 @@
        orient="auto"
        inkscape:stockid="Tail">
       <g
-         transform="scale(-1.2,-1.2)"
+         transform="scale(-1.2)"
          id="g3938">
         <path
            inkscape:connector-curvature="0"
@@ -152,9 +155,9 @@
        inkscape:stockid="TriangleOutL">
       <path
          inkscape:connector-curvature="0"
-         transform="scale(0.8,0.8)"
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
          id="path4044" />
     </marker>
     <marker
@@ -213,36 +216,30 @@
          id="path3923-6"
          inkscape:connector-curvature="0" />
     </marker>
-    <path
+    <ellipse
        transform="matrix(1.1963186,0,0,-1.7090267,79.443475,764.02378)"
-       d="m 123.42779,31.9361 a 50,35 0 1 1 -100.000002,0 50,35 0 1 1 100.000002,0 z"
-       sodipodi:ry="35"
-       sodipodi:rx="50"
-       sodipodi:cy="31.9361"
-       sodipodi:cx="73.427788"
        id="path4475-6-0"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.69936222;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="arc" />
-    <path
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.69936222;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="73.427788"
+       cy="31.9361"
+       rx="50"
+       ry="35" />
+    <ellipse
        transform="matrix(0.8909184,0,0,1.2727407,96.154046,668.77973)"
-       d="m 123.42779,31.9361 a 50,35 0 1 1 -100.000002,0 50,35 0 1 1 100.000002,0 z"
-       sodipodi:ry="35"
-       sodipodi:rx="50"
-       sodipodi:cy="31.9361"
-       sodipodi:cx="73.427788"
        id="path4475-5"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.93909836;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       sodipodi:type="arc" />
-    <path
-       sodipodi:type="arc"
-       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.69936222;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.93909836;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="73.427788"
+       cy="31.9361"
+       rx="50"
+       ry="35" />
+    <ellipse
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.69936222;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4475-6-06-0-2"
-       sodipodi:cx="73.427788"
-       sodipodi:cy="31.9361"
-       sodipodi:rx="50"
-       sodipodi:ry="35"
-       d="m 123.42779,31.9361 a 50,35 0 1 1 -100.000002,0 50,35 0 1 1 100.000002,0 z"
-       transform="matrix(1.1489216,0,0,-1.6240789,-66.878623,743.58103)" />
+       transform="matrix(1.1489216,0,0,-1.6240789,-66.878623,743.58103)"
+       cx="73.427788"
+       cy="31.9361"
+       rx="50"
+       ry="35" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4951"
@@ -251,7 +248,38 @@
        y1="1187.6024"
        x2="-257.34497"
        y2="1187.6024"
-       gradientUnits="userSpaceOnUse" />
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-810.99367,-23.471762)" />
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL">
+      <path
+         inkscape:connector-curvature="0"
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path4044-6" />
+    </marker>
+    <ellipse
+       transform="matrix(0.8909184,0,0,1.2727407,96.154046,668.77973)"
+       id="path4475-5-7"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.93909836;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       cx="73.427788"
+       cy="31.9361"
+       rx="50"
+       ry="35" />
+    <ellipse
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.69936222;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path4475-6-06-0-2-5"
+       transform="matrix(1.1489216,0,0,-1.6240789,-66.878623,743.58103)"
+       cx="73.427788"
+       cy="31.9361"
+       rx="50"
+       ry="35" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -260,9 +288,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.6252976"
-     inkscape:cx="396.85039"
-     inkscape:cy="-140.40432"
+     inkscape:zoom="0.47126159"
+     inkscape:cx="1368.6666"
+     inkscape:cy="466.91043"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1-6"
      showgrid="false"
@@ -270,7 +298,11 @@
      inkscape:window-height="1025"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="200" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -286,9 +318,10 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(214.57541,6.210237)">
     <image
-       sodipodi:absref="/home/awickert/Dropbox/NorthernWidget/github/NorthernWidget.github.io/images/banner_start.JPG"
+       sodipodi:absref="/home/awickert/Dropbox/NorthernWidget/NorthernWidget.github.io/images/banner_start.JPG"
        xlink:href="banner_start.JPG"
        width="724.25275"
        height="359.48059"
@@ -301,14 +334,14 @@
        id="layer1-6"
        inkscape:label="Layer 1">
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.5;vector-effect:none;fill:url(#linearGradient4953);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.6692915;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.6;vector-effect:none;fill:url(#linearGradient4953);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.6692915;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="rect4945"
          width="2737.3333"
          height="1358.6667"
          x="-2994.6782"
          y="508.26907" />
       <g
-         transform="matrix(3.5046124,0,0,3.5046124,-3220.0121,-1680.3921)"
+         transform="matrix(3.5046124,0,0,3.5046124,-2230.455,-260.22934)"
          id="g4807">
         <g
            id="g4393"
@@ -317,7 +350,7 @@
              inkscape:connector-curvature="0"
              id="path3896-0"
              d="m 554.658,698.65583 c 20.74987,-35.8101 20.74987,-35.8101 20.74987,-35.8101"
-             style="fill:none;stroke:#000000;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)" />
+             style="fill:none;stroke:#000000;stroke-width:11;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL-3)" />
           <g
              style="fill:#ffffff"
              id="g4342-3"
@@ -349,7 +382,7 @@
            style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:0%;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
            id="text4600-5"
            transform="matrix(-1.0795784,0.03142746,-0.03142746,-1.0795784,358.36404,1470.2227)"><textPath
-             xlink:href="#path4475-5"
+             xlink:href="#path4475-5-7"
              id="textPath4604-0"
              style="font-style:normal;font-size:12px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans'">Northern Widget LLC</textPath></text>
         <ellipse
@@ -367,7 +400,7 @@
            transform="rotate(149.97613,87.276065,719.4446)"><textPath
              style="font-weight:bold;-inkscape-font-specification:'DejaVu Sans Bold'"
              id="textPath3291-1"
-             xlink:href="#path4475-6-06-0-2">Saint Paul, Minn.</textPath></text>
+             xlink:href="#path4475-6-06-0-2-5">Saint Paul, Minn.</textPath></text>
       </g>
     </g>
   </g>

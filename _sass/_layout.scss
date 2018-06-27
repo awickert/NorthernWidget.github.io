@@ -237,13 +237,19 @@
 		background-size: cover;
 	}
 }
+.page-lead-overlay {
+	position: center top;
+	text-align: left;
+	padding: 2em;
+	background-size: cover;
+}
 .page-lead-content {
 	padding: 1em;
 	@include media($medium) {
 		padding: 2em;
 	}
 	@include media($large) {
-		padding: 3em;
+		padding: 2em;
 	}
 	h1 {
 		@include font-size(48);
