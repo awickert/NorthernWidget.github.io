@@ -21,3 +21,7 @@ This system was designed to allow users to either make a very cheap logger out o
 * Reference resistor connectors for use of thermistors
 * On board push buttons and indicator LED
 * Robust, easy to use screw terminal breakouts
+
+[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+<br>
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
