@@ -15,7 +15,7 @@ This system was designed to allow users to either make a very cheap logger out o
 ![ALog Shield](/images/ALogShield_Ortho.png "ALog Shield")
 
 ## Features:
-* Full side SD card socket 
+* Full size SD card socket 
 * Arduino Uno R3 compatible 
 * RTC with battery backup
 * Reference resistor connectors for use of thermistors
