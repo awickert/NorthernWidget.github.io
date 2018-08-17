@@ -11,7 +11,7 @@ image:
 
 <b>Project Margay</b> is part of the Northern Widget Research and Development branch, also known as the [<b>Skunkworks</b>](https://northernwidget-skunkworks.github.io/)[^1].
 
-![Margay Board](/images/Margay_v0-0.jpg "Margay Board")
+![Margay Board](/images/Margay_v0-0_small.png "Margay Board")
 
 ### View [<u>Project Margay</u>](https://northernwidget-skunkworks.github.io/Projects/Margay.html) on the Skunkworks website 
 
