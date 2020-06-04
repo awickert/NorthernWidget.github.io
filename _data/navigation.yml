@@ -12,6 +12,11 @@
     #   - title: "Accesories"
     #     url: /products/accesories
 
+# products:
+- title: Tutorial
+  url: /tutorial/
+  excerpt: "Guide to getting started with Northern Widget data loggers and sensors"
+
 - title: Consulting
   url: /consulting/
   excerpt: "Consulting services offered by the various engineering and environmental experts at Northern Widget"
@@ -30,11 +35,11 @@
 - title: Skunkworks
   url: /skunkworks/
   excerpt: "Research and Development for Northern Widget is carried out in the Skunkworks, where all cool things start!"
-  
+
 - title: About
   url: /about/
   excerpt: "Where we have been, and where we hope to go"
-  #Add image here! 
+  #Add image here!
 
 # - title: Northern Widget
 #   url: http://NorthernWidget.comn
